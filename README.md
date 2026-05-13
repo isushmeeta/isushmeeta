@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-<!--
-**isushmeeta/isushmeeta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 <h1 align="center">Sushmita </h1>
 <h3 align="center">AI Engineer · Full-Stack Developer · ML Researcher</h3>
 
