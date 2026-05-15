@@ -101,7 +101,7 @@ End-to-end NLP system for dual-task classification on large-scale Amazon review 
 
 ---
 
-### ⚙️ Distributed Parallel Processing System *(In Progress)*
+### [⚙️ Distributed Parallel Processing System] (https://github.com/isushmeeta/Stream-ML) *(In Progress )*
 > Python · Distributed Systems · Multiprocessing · Message Queues · Fault Tolerance
 
 Task scheduler distributing compute workloads across parallel worker nodes with fault-tolerance and automatic retry on node failure.
