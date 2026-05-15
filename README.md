@@ -66,7 +66,18 @@ I'm looking for **AI engineering, backend, or ML roles** — internships or full
 ---
 
 ## 🚀 Projects
+---
 
+### [🎨 ArtifyAI — Neural Style Transfer System](https://github.com/isushmeeta/ArtifyAI)
+> Python · PyTorch · VGG19 · AdaIN · Flask · Computer Vision
+
+Built an end-to-end neural style transfer web application from scratch using **Adaptive Instance Normalization (AdaIN)** — a real-time feed-forward approach that decouples style from content without per-image optimization.
+
+- Trained a custom **decoder network** paired with a frozen VGG19 encoder, optimizing a weighted combination of **perceptual content loss** and **Gram matrix-based style loss** across multiple feature layers
+- Implemented **AdaIN normalization** to align channel-wise mean and variance of content features with style features, enabling arbitrary style transfer at inference time
+- Deployed as a **Flask web app** with adjustable style strength (alpha blending) and real-time image preview
+
+---
 ### 🏥 [AI-Powered Hospital Management System](https://github.com/isushmeeta/AI-HMS)
 > React · Flask · Gemini LLM · Scikit-learn · PostgreSQL · JWT · RBAC
 
@@ -87,15 +98,6 @@ End-to-end NLP system for dual-task classification on large-scale Amazon review 
 - Text preprocessing: tokenisation, stopword removal, lemmatisation, TF-IDF and word embedding feature extraction
 - Trained and benchmarked Logistic Regression, SVM, LSTM, and BERT — evaluated on accuracy, F1-score, and ROC-AUC
 - Ensemble methods and metadata feature engineering improved fake review detection accuracy
-
----
-
-### 🎨 Neural Style Transfer System *(In Progress)*
-> Python · PyTorch · VGG19 · CNN · Computer Vision
-
-Artistic style transfer using VGG19 pre-trained CNN, optimising perceptual content loss + Gram matrix-based style loss.
-
-- Experimenting with learning rate scheduling and multi-scale transfer for faster convergence and higher fidelity output
 
 ---
 
