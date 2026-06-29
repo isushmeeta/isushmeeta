@@ -131,7 +131,7 @@ Full-stack food ordering platform with JWT-secured authentication, product listi
 
 ## 🌱 Currently Building
 
-- 🎨 **Neural Style Transfer** — VGG19-based perceptual style synthesis (PyTorch)
+- 🎨 **ScoreMyResume** — A web app that scores how well a resume matches a job description and returns actionable feedback
 - ⚙️ **Distributed Task Scheduler** — fault-tolerant parallel computing system
 - 🤖 **AI/ML Coursework** — Prime Complete AI/ML, Apna College
 
